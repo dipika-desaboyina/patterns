@@ -1,12 +1,12 @@
 # 🧩 Daily Algorithm Patterns
 
-A daily commitment to algorithmic problem solving — one problem per day, organized by pattern.
+A daily commitment to algorithmic problem solving — one problem per day, organised by pattern.
 
 ---
 
 ## 📌 About
 
-This repository tracks my journey of solving algorithmic problems every day. Each solution is written in Python, tested with `unittest`, and grouped by the underlying problem-solving pattern rather than by problem source. The goal is to build deep intuition for recognizing and applying patterns across different problems.
+This repository tracks my journey of solving algorithmic problems every day. Each solution is written in Python, tested with `unittest`, and grouped by the underlying problem-solving pattern rather than by problem source. The goal is to build deep intuition for recognising and applying patterns across different problems.
 
 ---
 
@@ -53,7 +53,7 @@ daily-algo-patterns/
 | Binary Search | Search problems on sorted arrays or monotonic functions |
 | Fast & Slow Pointers | Cycle detection and midpoint finding in linked lists |
 | Merge Intervals | Overlapping interval problems |
-| Dynamic Programming | Optimization problems with overlapping subproblems |
+| Dynamic Programming | Optimisation problems with overlapping subproblems |
 | BFS / DFS | Graph and tree traversal problems |
 | Backtracking | Constraint satisfaction and combinatorial problems |
 
@@ -64,6 +64,7 @@ daily-algo-patterns/
 Every file follows this consistent format:
 
 ```python
+# Day : 1
 # Pattern   : Two Pointers
 # Problem   : Two Sum - Sorted Array
 # Leetcode Difficulty Level : Easy
